@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login Sample</string>
+
+
+    <string name="invalid_email_error_text">Invalid email address</string>
+    <string name="empty_email_error">Email address required</string>
+
+    <string name="invalid_password_error_text">Invalid password address</string>
+    <string name="empty_password_error">Password required</string>
+</resources>
